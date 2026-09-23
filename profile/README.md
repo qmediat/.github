@@ -18,7 +18,7 @@ We build secure, production-ready tools for the AI ecosystem.
 | [gemini-code-context-mcp](https://github.com/qmediat/gemini-code-context-mcp) | MCP server that gives Claude Code persistent memory of a codebase through Gemini's Context Cache — 5 tools | `npx @qmediat.io/gemini-code-context-mcp` |
 | [ideogram-mcp](https://github.com/qmediat/ideogram-mcp) | MCP server for Ideogram V3 API — 7 tools for image generation, editing, and upscaling | `npx @qmediat.io/ideogram-mcp` |
 | [cursor-mcp](https://github.com/qmediat/cursor-mcp) | MCP server for Cursor CLI — Composer, Claude, GPT, Gemini and Grok models through 5 tools | `npx @qmediat.io/cursor-mcp` |
-| [ai-cost](https://github.com/qmediat/ai-cost) | Python CLI that counts what AI coding tools cost — real, API-only equivalent, vendor quote — per project and globally, from the usage already on disk | `pipx install ai-cost` (PyPI release pending; the single file ships on the release page) |
+| [ai-cost](https://github.com/qmediat/ai-cost) | Python CLI that counts what AI coding tools cost — real, API-only equivalent, vendor quote — per project and globally, from the usage already on disk | `pipx install ai-costs` (the PyPI name; the command is `ai-cost`) — or the single file from the release page |
 
 ## Links
 
