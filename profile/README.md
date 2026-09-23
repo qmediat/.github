@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://www.qmediat.io/open-source?utm_source=github&utm_medium=org-profile&utm_campaign=open-source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qmediat/.github/main/assets/qmediat-wordmark-light.svg">
+      <img src="https://raw.githubusercontent.com/qmediat/.github/main/assets/qmediat-wordmark-badge.svg" alt="Quantum Media Technologies" height="44">
+    </picture>
+  </a>
+</p>
+
 # Quantum Media Technologies
 
 We build secure, production-ready tools for the AI ecosystem.
